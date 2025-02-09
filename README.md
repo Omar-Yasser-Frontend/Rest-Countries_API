@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Demo](https://omar-rest-api-countries.netlify.app/)
+- Live Site URL: [Demo](https://omar-rest-countries-api.netlify.app/)
 
 ### Built with
 
