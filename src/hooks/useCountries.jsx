@@ -14,8 +14,6 @@ function useCountries() {
         try {
           setIsloading("loading");
 
-          // life is hard man i have to use import instead of fetch to allow my self to upload the project
-
           const res = await fetch("/public/data.json");
 
           if (!res.ok) throw new Error("failled to fetch data");
